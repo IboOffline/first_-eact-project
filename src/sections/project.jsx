@@ -10,6 +10,10 @@ export default function Projects() {
           <p className="text-gray-700">KFZ-Meisterbetrieb Webseite mit Laravel & Tailwind und TailwindCSS.</p>
         </div>
         <div>
+          <h3 className="font-semibold text-brand-600">TÜV-Prüfstation</h3>
+          <p className="text-gray-700">Tüv Süd Autopartner Webseite mit Laravel & Tailwind und TailwindCSS.</p>
+        </div>
+        <div>
           <h3 className="font-semibold text-brand-600">Soleia Skincare</h3>
           <p className="text-gray-700">E-Commerce-Konzept für eine koreanische Skincare-Marke mit Laravel & Tailwind und TailwindCSS.
           </p>
