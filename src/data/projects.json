@@ -1,0 +1,22 @@
+[
+    {
+        "id": "drive-more",
+        "title": "Drive More",
+        "description": "KFZ-Meisterbetrieb Webseite mit Laravel & Tailwind und TailwindCSS."
+    },
+    {
+        "id": "tuev-pruefstation",
+        "title": "TÜV-Prüfstation",
+        "description": "Tüv Süd Autopartner Webseite mit Laravel & Tailwind und TailwindCSS."
+    },
+    {
+        "id": "soleia-skincare",
+        "title": "Soleia Skincare",
+        "description": "E-Commerce-Konzept für eine koreanische Skincare-Marke mit Laravel & Tailwind und TailwindCSS."
+    },
+    {
+        "id": "canbeonline",
+        "title": "CanBeOnline",
+        "description": "Eigene Agenturmarke – Fokus auf Webentwicklung, Branding und digitale Automatisierung."
+    }
+]
