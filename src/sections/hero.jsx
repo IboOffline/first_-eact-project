@@ -1,5 +1,7 @@
+import { Link } from 'react-router-dom';
 import Button from '../components/Button';
 import QuoteBox from '../components/QuoteBox';
+
 
 
 export default function Hero() {
@@ -11,9 +13,10 @@ bg-brand-500 mb-4">Ibrahim Can Uyan</h1>
         Full-Stack-Webentwickler
       </p>
       <QuoteBox />
+      <p><Link to="/projects">Hier</Link> findest du meine Projekte.</p>
       <Button label="Kontaktiere mich" href="#contact" />
     </section>
 
 
-  )
-}
+  );
+}      

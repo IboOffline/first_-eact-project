@@ -1,7 +1,7 @@
 import HeroSection from "../sections/hero.jsx";
 import AboutSection from "../sections/about.jsx";
 import SkillsSection from "../sections/skills.jsx";
-import ProjectSection from "../sections/project.jsx";
+import ProjectSection from "../sections/projectOhneSuchfunktion.jsx";
 import HobbiesSection from "../sections/hobbies.jsx";
 import ContactSection from "../sections/contact.jsx";
 

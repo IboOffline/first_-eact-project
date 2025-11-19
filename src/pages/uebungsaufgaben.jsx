@@ -3,6 +3,7 @@ import FocusInput from "../components/FocusInput.jsx";
 import ClickButton from "../components/ClickButton.jsx";
 import Counter from "../components/Counter.jsx";
 import Container from "../components/container.jsx";
+import Login from "../components/loginform.jsx"
 
 export default function Uebungsaufgaben() {
     return (
@@ -15,6 +16,7 @@ export default function Uebungsaufgaben() {
                     <FileInput />
                     <FocusInput />
                     <ClickButton />
+                    <Login />
                 </div>
             </Container>
         </main>

@@ -10,7 +10,7 @@ export default function MyForm() {
 
 
     const isValid =
-      email === "jana@email.de" && password === "123456";
+      email === "ibrahim@email.de" && password === "123456";
 
     if (isValid) {
       setIsLoggedIn(true);

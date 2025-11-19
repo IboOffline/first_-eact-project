@@ -6,6 +6,7 @@ export default function Counter() {
   return (
     <div className="border p-4 m-2 rounded">
       <p className="text-xl mb-2">Count: {count}</p>
+      
       <button
         className="bg-blue-500 text-white px-3 py-1 rounded"
         onClick={() => setCount(count + 1)}
