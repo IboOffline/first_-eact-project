@@ -9,9 +9,14 @@ import Container from "../components/container.jsx";
 import LinkList from "../components/exercise.jsx";
 
 
+
+
+
+
 export default function Home() {
   return (
     <main className="font-poppins text-sky-900 bg-white min-h-screen w-full">
+
       <Container>
         <HeroSection />
         <AboutSection />
@@ -25,6 +30,7 @@ export default function Home() {
           < LinkList />
         </section>
       </Container>
+      
     </main>
   );
 }

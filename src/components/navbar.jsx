@@ -10,6 +10,8 @@ export default function Navbar() {
       <NavLink to="/about" className={link}>About</NavLink>
       <NavLink to="/projects" className={link}>Projects</NavLink>
       <NavLink to="/contact" className={link}>Contact</NavLink>
+      <NavLink to="/login" className={link}>Login</NavLink>
+      <NavLink to="/uebungsaufgaben" className={link}>Übungsaufgaben</NavLink>
     </nav>
   );
 }
