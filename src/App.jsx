@@ -1,11 +1,10 @@
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/navbar.jsx";
 
-
-import Home from "./pages/home.jsx";
-import About from "./sections/about.jsx";
-import Projects from "./sections/project.jsx";
-import Contact from "./sections/contact.jsx";
+ import Home from "./pages/home.jsx";
+import About from "./pages/about.jsx";
+import Projects from "./pages/projects.jsx";
+import Contact from "./pages/contact.jsx";
 import Login from "./sections/login.jsx"
 import Uebungsaufgaben from "./pages/uebungsaufgaben.jsx"
 
