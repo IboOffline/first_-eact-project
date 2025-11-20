@@ -5,6 +5,7 @@ import ProjectSection from "../sections/projectOhneSuchfunktion.jsx";
 import HobbiesSection from "../sections/hobbies.jsx";
 import ContactSection from "../sections/contact.jsx";
 
+
 import Container from "../components/container.jsx";
 import LinkList from "../components/exercise.jsx";
 
@@ -16,6 +17,7 @@ import LinkList from "../components/exercise.jsx";
 export default function Home() {
   return (
     <main className="font-poppins text-sky-900 bg-white min-h-screen w-full">
+
 
       <Container>
         <HeroSection />
