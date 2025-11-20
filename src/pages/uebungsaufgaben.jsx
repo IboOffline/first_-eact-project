@@ -5,6 +5,7 @@ import Counter from "../components/Counter.jsx";
 import Container from "../components/container.jsx";
 import Login from "../components/loginform.jsx"
 import Expression from "../components/expressions.jsx";
+import ValidatedForm from "../components/validatedform.jsx";
 
 export default function Uebungsaufgaben() {
     return (
@@ -19,6 +20,7 @@ export default function Uebungsaufgaben() {
                     <ClickButton />
                     <Login />
                     <Expression />
+                    <ValidatedForm />
                 </div>
             </Container>
         </main>
