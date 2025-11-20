@@ -6,6 +6,8 @@ import Container from "../components/container.jsx";
 import Login from "../components/loginform.jsx"
 import Expression from "../components/expressions.jsx";
 import ValidatedForm from "../components/validatedform.jsx";
+import vocabulary from '../data/vocabulary.json' with { type: 'json' };
+import VocabularyGame from "../components/VocabularyGame.jsx";
 
 export default function Uebungsaufgaben() {
     return (
@@ -21,6 +23,7 @@ export default function Uebungsaufgaben() {
                     <Login />
                     <Expression />
                     <ValidatedForm />
+                    <VocabularyGame vocabulary={vocabulary} />
                 </div>
             </Container>
         </main>
